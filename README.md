@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <h3 align="lwft">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/imamul-kadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imamul-kadir" height="30" width="40" /></a>
+<a href="https://codepen.io/imamul-kadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/imamulkadir/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imamul-kadir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imamulkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imamulkadir" height="30" width="40" /></a>
 <a href="https://fb.com/imamulkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imamulkadir" height="30" width="40" /></a>
 <a href="https://instagram.com/imamul_oyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imamul_oyan" height="30" width="40" /></a>
