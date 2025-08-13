@@ -22,28 +22,23 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Fullstack Web Development**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **React, NextJs**
 
 - 👯 I’m looking to collaborate on **Front End Development**
-
-- 🤝 I’m looking for help with **Responsive Nav Bar**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imamulkadir](https://github.com/imamulkadir)
 
 - 📫 How to reach me **imamulkadiroyan@gmail.com**
 
-- 📄 Know about my experiences [https://imamulkadir.github.io/](https://imamulkadir.github.io/)
+- 📄 Know about my experiences [https://imamulkadir.github.io/](https://imamulkadir.github.io/) or [https://imamulkadir.vercel.app](https://imamulkadir.vercel.app/)
 
-- ⚡ Fun fact **I love to play games**
+- ⚡ !Fun fact **I love to play games**
 
 <h3 align="lwft">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/imamul-kadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imamul-kadir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imamulkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imamulkadir" height="30" width="40" /></a>
 <a href="https://fb.com/imamulkadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imamulkadir" height="30" width="40" /></a>
-<a href="https://instagram.com/imamul_oyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imamul_oyan" height="30" width="40" /></a>
 <a href="https://www.behance.net/imamulkadiroyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="imamulkadiroyan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/imamul kadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imamul kadir" height="30" width="40" /></a>
 <a href="https://discord.gg/imamulkadir#6591" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imamulkadir#6591" height="30" width="40" /></a>
 </p>
 
