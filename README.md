@@ -19,6 +19,16 @@
 
 ---
 
+- 👨‍💻 All of my projects are available at [https://github.com/imamulkadir](https://github.com/imamulkadir)
+
+- 📫 How to reach me **imamulkadiroyan@gmail.com**
+
+- 📄 Know about my experiences [https://imamulkadir.github.io/](https://imamulkadir.github.io/) or [https://imamulkadir.vercel.app](https://imamulkadir.vercel.app/)
+
+- ⚡ !Fun fact **I love to play games**
+
+---
+
 ### 🛠️ Languages, Frameworks & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,21 +62,10 @@
 
 ### 🌟 GitHub Stats
 ![Imamul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imamulkadir&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imamulkadir&layout=compact))
 
 ---
 
-- 👨‍💻 All of my projects are available at [https://github.com/imamulkadir](https://github.com/imamulkadir)
-
-- 📫 How to reach me **imamulkadiroyan@gmail.com**
-
-- 📄 Know about my experiences [https://imamulkadir.github.io/](https://imamulkadir.github.io/) or [https://imamulkadir.vercel.app](https://imamulkadir.vercel.app/)
-
-- ⚡ !Fun fact **I love to play games**
-
----
-
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imamulkadir)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imamulkadiroyan@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/imamulkadir)  
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:imamulkadiroyan@gmail.com)
