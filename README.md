@@ -30,7 +30,7 @@
 ---
 
 ### 🛠️ Languages, Frameworks & Tools
-
+<div align="center">
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -56,7 +56,7 @@
 ![Office 365](https://img.shields.io/badge/Microsoft_Office-FFB900?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+</div>
 
 ---
 
